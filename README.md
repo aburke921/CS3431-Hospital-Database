@@ -1,4 +1,4 @@
-# CS-3431-Hospital-Database
+# CS3431-Hospital-Database
 
 
 [Phase 1 Info.pdf](https://github.com/aburke921/CS-3431-Hospital-Database/files/6580707/Phase.1.Info.pdf)
